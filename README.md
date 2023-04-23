@@ -113,3 +113,8 @@ And then run the `docker run -d \ ...` command above again.
 
 * [Using WireGuard-Easy with Pi-Hole](https://github.com/WeeJeWel/wg-easy/wiki/Using-WireGuard-Easy-with-Pi-Hole)
 * [Using WireGuard-Easy with nginx/SSL](https://github.com/WeeJeWel/wg-easy/wiki/Using-WireGuard-Easy-with-nginx-SSL)
+
+
+## Credits
+
+* [WeeJeWel](https://github.com/WeeJeWel/wg-easy) for the original project.

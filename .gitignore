@@ -2,3 +2,4 @@
 /wg*.conf
 /wg*.json
 package.lock.json
+.env
