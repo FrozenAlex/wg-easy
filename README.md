@@ -7,6 +7,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/frozenalex/wg-easy)
 
 You have found the easiest way to install & manage WireGuard on any Linux host!
+[Gluetun example](https://github.com/FrozenAlex/wg-easy/wiki/Gluetun-config-example)
 
 <p align="center">
   <img src="./assets/screenshot.png" width="802" />
